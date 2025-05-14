@@ -4,13 +4,13 @@
 
 -Primeiramente é preciso que você verifique se os arquivo que estão no Github estão diretório da máquina. Depois disso utilize a seguinte linha de código:
 ```
-gcc – Snake-PIF main.c keyboard.c screen.c timer.c
+gcc -o SnakeGameInC main.c keyboard.c screen.c timer.c
 ```
 
 A seguir, digite essa segunda linha:
 
 ```
-./Snake-PIF
+./SnakeGameInC
 ```
 
 **COMO JOGAR:**
