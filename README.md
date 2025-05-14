@@ -32,3 +32,4 @@ A seguir, digite essa segunda linha:
 -Se a cobra colidir com a parede ou com o próprio corpo ela morrerá.
 
 -Quando a cobra morrer irá aparecer "Game over" e apareçerá a tabela de pontuações, mostrando quem obteve as maiores pontuações.
+# SnakeGameInC
