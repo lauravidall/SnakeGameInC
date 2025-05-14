@@ -1,5 +1,3 @@
-*Projeto da cadeira de Programação Imperativa Funcional (PIF) do segundo período de Ciência da Computação na Cesar School.*
-
 **COMO RODAR SNAKE GAME**
 
 -Primeiramente é preciso que você verifique se os arquivo que estão no Github estão diretório da máquina. Depois disso utilize a seguinte linha de código:
@@ -32,4 +30,5 @@ A seguir, digite essa segunda linha:
 -Se a cobra colidir com a parede ou com o próprio corpo ela morrerá.
 
 -Quando a cobra morrer irá aparecer "Game over" e apareçerá a tabela de pontuações, mostrando quem obteve as maiores pontuações.
+
 # SnakeGameInC
